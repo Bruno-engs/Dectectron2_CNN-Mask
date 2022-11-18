@@ -2,9 +2,9 @@
  Training. running and comparing the results of detectron2
 
 # Dectectron2.ipynb
- #Iniciando o dectectron no colab
- #treinando e analizando 
- #Reconhecimento de balões
+ # Iniciando o dectectron no colab
+ # treinando e analizando 
+ # Reconhecimento de balões
  
 # CNN.ipynb
   .preparando base de dados
