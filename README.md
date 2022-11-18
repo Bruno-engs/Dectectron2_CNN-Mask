@@ -4,7 +4,7 @@
 # Dectectron2.ipynb
  # Iniciando o dectectron no colab
  # treinando e analizando 
- # Reconhecimento de balões
+ . Reconhecimento de balões
  
 # CNN.ipynb
   .preparando base de dados
